@@ -94,6 +94,7 @@
 .search-icon {
     height: 26px;
     margin-top: 3px;
+    cursor: pointer;
 }
 .voice {
     height: 40px;
@@ -116,12 +117,15 @@
 }
 .upload {
     height: 24px;
+    cursor: pointer;
 }
 .apps {
     height: 24px;
+    cursor: pointer;
 }
 .notification {
     height: 24px;
+    cursor: pointer;
 }
 .container {
     position: relative;
@@ -144,4 +148,5 @@
 .my {
     height: 32px;
     border-radius: 16px;
+    cursor: pointer;
 }
