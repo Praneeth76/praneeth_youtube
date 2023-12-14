@@ -106,6 +106,7 @@
 .mic {
     height: 26px;
     margin-top: 3px;
+    cursor: pointer;
 }
 .right {
     width: 180px;
